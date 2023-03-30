@@ -47,5 +47,6 @@
  ## Problem Solving :muscle: 
  </a>
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=protofu)](https://solved.ac/protofu)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sungjae0512)](https://solved.ac/sungjae0512)<br/>
+
 
