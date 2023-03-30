@@ -5,7 +5,7 @@
  <br/>
  <br/>
   
-####  :clipboard: Once I've Used 
+####  :clipboard: Used 
   
  <br/>
   
@@ -29,5 +29,4 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protofu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Velog's GitHub stats](https://velog.io/@sungjae0512)](https://velog.io/@sungjae0512)
-</div>
+
