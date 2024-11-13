@@ -1,5 +1,4 @@
 <div align="center"> 
-
   
 <!-- 헤더 --> 
 <a href="https://github.com/devxb/gitanimals"> 
