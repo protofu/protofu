@@ -35,6 +35,17 @@ AI Engineer · 영상·문서·설비 시계열 데이터를 다루는 AI 모델
 - 두 이미지가 같은 위치·같은 대상인지 판정하는 시스템 단독 개발, 오탐·오판 0건 (SuperPoint+LightGlue, MAGSAC++, DINOv2 활용)
 - CCTV 화재·침입 감지 (4인 팀, 감지 모듈·API 담당): YOLOv8 학습, 타일 분할 추론, 1차 자체 모델 → 모호한 장면만 2차 질의하는 2단 구조
 
+## 🚀 Side Projects (1인 개발)
+
+**[Stamplace](https://play.google.com/store/apps/details?id=io.github.protofu.stamplace)** · 2026.08 출시 (App Store · Google Play)
+- 사진 속 GPS로 방문 장소를 자동 기록하는 여행 도감 앱 · 랜드마크 스탬프, 컬러 지도, 페어(기록 공유)
+- 기획부터 스토어 출시까지 1인 개발 · Flutter(Dart) 앱 + React/TypeScript 웹
+
+**BOUT** · 개발 중
+- '오늘의 대결' 투표 서비스, 공유 링크 랜딩 웹
+- React · Vite · Tailwind · TypeScript · Supabase
+- 테이블 직접 접근 차단, 공개 뷰와 RPC만 여는 권한 설계
+
 <div align="center">
 
 ## Skill :four_leaf_clover:
