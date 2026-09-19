@@ -90,12 +90,6 @@ AI Engineer · 영상·문서·설비 시계열 데이터를 다루는 AI 모델
 
 <br/>
 
-## :pencil2: Study log
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=protofu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=protofu&show_icons=true&theme=radical)
-
 ## Problem Solving :muscle:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sungjae0512)](https://solved.ac/sungjae0512)
